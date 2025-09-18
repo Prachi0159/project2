@@ -1,4 +1,4 @@
 # New project
 
 This project was created for local system.
-created by Prachi.
+Created by Prachi.
